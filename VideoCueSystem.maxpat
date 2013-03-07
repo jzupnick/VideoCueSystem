@@ -3217,8 +3217,8 @@
 					"patching_rect" : [ 140.25, 421.0, 153.5, 96.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
-					"presentation_rect" : [ 92.25, 503.5, 175.5, 74.0 ],
-					"text" : "FULLSCREEN (shoot image to right projector)",
+					"presentation_rect" : [ 92.25, 503.5, 179.0, 74.0 ],
+					"text" : "FULLSCREEN (shoot image to left projector)",
 					"textcolor" : [ 0.172159, 0.172159, 0.172159, 1.0 ]
 				}
 
